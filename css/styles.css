@@ -907,7 +907,7 @@ ol {
   margin-bottom: 24px;
 }
 
-.modal-checkbox-input:checked + .check-text span {
+.modal-checkbox-input:checked + .check-label-span {
   background-color: var(--hover-focus-color);
   border: none;
   fill: var(--portfolio-btns-bckgnd-color);
@@ -932,7 +932,7 @@ ol {
   color: var(--herobutton-bckgnd-color);
 }
 
-.check-text span {
+.check-label-span {
   display: inline-flex;
   align-items: center;
   justify-content: center;
