@@ -907,7 +907,7 @@ ol {
   margin-bottom: 24px;
 }
 
-.modal-checkbox-input:checked + .check-label-span {
+.modal-checkbox-input:checked + .check-text .check-label-span {
   background-color: var(--hover-focus-color);
   border: none;
   fill: var(--portfolio-btns-bckgnd-color);
